@@ -82,10 +82,5 @@ This is a simple blog API built with Django Rest Framework (DRF) and JWT (JSON W
 - **Delete My Blog**: `DELETE /api/my-blogs/<id>/`
    - Allows the authenticated user to delete their own blog.
 
-## Setup Instructions
 
-1. **Clone the repository**:
 
-   ```bash
-   git clone <repository_url>
-   cd blog_project
